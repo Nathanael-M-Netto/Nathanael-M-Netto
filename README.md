@@ -1,7 +1,6 @@
-
 <!-- Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7FDBFF&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=49ff00&height=120&section=header"/>
 </div>
 
 ---
@@ -24,8 +23,8 @@
 ## 📊 Stats
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nathanael-M-Netto&show_icons=true&count_private=true&hide_border=true&title_color=7FDBFF&icon_color=7FDBFF&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanael-M-Netto&layout=compact&hide_border=true&title_color=7FDBFF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nathanael-M-Netto&show_icons=true&count_private=true&hide_border=true&title_color=49ff00&icon_color=49ff01&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanael-M-Netto&layout=compact&hide_border=true&title_color=49ff00&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ---
@@ -57,11 +56,11 @@
 <details>
   <summary>🧪 Abrir terminal de teste</summary>
 
-  ```
-  npm start
+  
+npm start
   > Simulando servidor local...
   > Nathanael Server ON 🌐
-  ```
+
 </details>
 
 ---
@@ -78,5 +77,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7FDBFF&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=49ff00&height=120&section=footer"/>
 </div>
