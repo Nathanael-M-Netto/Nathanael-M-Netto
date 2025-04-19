@@ -15,8 +15,14 @@
 - 📜 **Inglês**: Certificação de proficiência **TOEIC – 715 pontos**
 - 🌍 Atualmente no 5º semestre de **Análise e Desenvolvimento de Sistemas**
 - 💼 Ex-SABESP: Atuei como analista no Centro de Controle Operacional (CCO)
-- ✉️ Contato: [nettinhonatha@gmail.com](mailto:nettinhonatha@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nathanael-mariano-netto-20941a191/)
+
+---
+
+## Links:
+<div> 
+  <a href="https://www.linkedin.com/in/nathanael-m-netto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:nettinhonatha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
@@ -51,20 +57,6 @@
 
 ---
 
-## 🧪 Terminal de demonstração
-
-<details>
-  <summary>🧪 Abrir terminal de teste</summary>
-
-  
-npm start
-  > Simulando servidor local...
-  > Nathanael Server ON 🌐
-
-</details>
-
----
-
 ## 🎁 Surpresa
 
 <p align="center">
@@ -72,14 +64,6 @@ npm start
     <img src="https://img.shields.io/badge/🚨-NÃO+CLIQUE+AQUI-critical" />
   </a>
 </p>
-
----
-## Links:
-<div> 
-  <a href="https://www.linkedin.com/in/nathanael-m-netto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:nettinhonatha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
 <!-- Footer -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=49ff00&height=120&section=footer"/>
