@@ -1,7 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=49ff00&height=120&section=header"/>
 </div>
-
 <div align="center">
   <h2>👋 Sobre mim</h2>
 </div>
@@ -34,7 +33,7 @@
 </p>
 
 <div align="center">
----
+
   <h2>📊 Stats</h2>
 </div>
 
@@ -52,7 +51,7 @@
 </div>
 
 <div align="center">
----
+
   <h2>💻 Linguagens</h2>
 </div>
 
@@ -67,7 +66,7 @@
 </div>
 
 <div align="center">
----
+
   <h2>🛠️ Ferramentas & Frameworks</h2>
 </div>
 <div align="center">
