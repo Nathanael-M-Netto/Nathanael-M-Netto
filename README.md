@@ -15,9 +15,8 @@
 * 💼 Ex-SABESP: Atuei como analista no Centro de Controle Operacional (CCO)
 
 <div align="center">
-  <h2>🔗 Links</h2>
-</div>
-
+  
+<h2>🔗 Links</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/nathanael-m-netto/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
@@ -27,10 +26,14 @@
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://catalogo-de-arvores.onrender.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/Nathanael-M-Netto/catalogo_de_arvores/refs/heads/main/favicon.png" width="40" alt="Catálogo de Árvores"/>
+  </a>
+</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://black-cat-project.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/Nathanael-M-Netto/Black_Cat_Project/refs/heads/main/public/favicon.png" width="40" alt="Black Cat Project"/>
   </a>
-</p>
 
 <div align="center">
 
