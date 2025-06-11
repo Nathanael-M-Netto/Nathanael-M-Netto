@@ -29,11 +29,11 @@
   <a href="https://catalogo-de-arvores.onrender.com" target="_blank">
     <img src="https://raw.githubusercontent.com/Nathanael-M-Netto/catalogo_de_arvores/refs/heads/main/favicon.png" width="40" alt="Catálogo de Árvores"/>
   </a>
-</p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://black-cat-project.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/Nathanael-M-Netto/Black_Cat_Project/refs/heads/main/public/favicon.png" width="40" alt="Black Cat Project"/>
   </a>
+  </p>
 
 <div align="center">
 
