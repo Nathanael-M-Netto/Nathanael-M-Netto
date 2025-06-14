@@ -88,7 +88,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" width="40" alt="phpMyAdmin" />
 </div>
 
-<div align="center">
+<div align=center>
+  
+ <img src="https://raw.githubusercontent.com/Nathanael-M-Netto/Nathanael-M-Netto/output/snake.svg" alt="Snake animation" />
+  
+</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=49ff00&height=120&section=footer"/>
