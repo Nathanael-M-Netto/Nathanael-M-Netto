@@ -5,7 +5,6 @@
   <h2>👋 Sobre mim</h2>
 </div>
 
-* 🧠 Me chamo **Nathanael Mariano Netto**
 * 🎯 Tenho foco em **Full Stack, e Gerenciamento de Servidores**
 * 🌱 Estudando **React Native, Node.js, Prisma, PostgreSQL, phpMyAdmin e Flutter**
 * 🏆 Premiado pela **FATEC** e certificado em **Computação em Nuvem**
