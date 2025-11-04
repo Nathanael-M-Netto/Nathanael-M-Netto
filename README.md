@@ -6,12 +6,12 @@
 </div>
 
 * 🎯 Tenho foco em **Full Stack, e Gerenciamento de Servidores**
-* 🌱 Estudando **React Native, Node.js, Prisma, PostgreSQL, phpMyAdmin e Flutter**
+* 🌱 Estudando **React Native, Node.js, Tailwind, Vite and Three.js**
+* 🌍 Atualmente no 5º semestre de **Análise e Desenvolvimento de Sistemas**
+* 📜 **Inglês**: Certificação de proficiência **TOEIC – 715 pontos**
 * 🏆 Premiado pela **FATEC** e certificado em **Computação em Nuvem**
 * 🇯🇵 Curiosidade: fiz um curso de **japonês** (34 horas 😄)
-* 📜 **Inglês**: Certificação de proficiência **TOEIC – 715 pontos**
-* 🌍 Atualmente no 5º semestre de **Análise e Desenvolvimento de Sistemas**
-* 💼 Ex-SABESP: Atuei como analista no Centro de Controle Operacional (CCO)
+* 💼 Atuo na empresa **Code and Soul** como **Desenvolvedor Front-End Jr**
 
 <div align="center">
   
