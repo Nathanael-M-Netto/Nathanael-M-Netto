@@ -7,7 +7,7 @@
 
 * 🎯 Tenho foco em **Full Stack, e Gerenciamento de Servidores**
 * 🌱 Estudando **React Native, Node.js, Tailwind, Vite and Three.js**
-* 🌍 Atualmente no 5º semestre de **Análise e Desenvolvimento de Sistemas**
+* 🌍 Atualmente no 6º semestre de **Análise e Desenvolvimento de Sistemas**
 * 📜 **Inglês**: Certificação de proficiência **TOEIC – 715 pontos**
 * 🏆 Premiado pela **FATEC** e certificado em **Computação em Nuvem**
 * 🇯🇵 Curiosidade: fiz um curso de **japonês** (34 horas 😄)
