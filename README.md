@@ -2,20 +2,20 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=49ff00&height=120&section=header"/>
 </div>
 <div align="center">
-  <h2>👋 Sobre mim</h2>
+  <h2> Sobre mim</h2>
 </div>
 
-* 🎯 Tenho foco em **Full Stack, e Gerenciamento de Servidores**
-* 🌱 Estudando **React Native, Node.js, Tailwind, Vite and Three.js**
-* 🌍 Atualmente no 6º semestre de **Análise e Desenvolvimento de Sistemas**
-* 📜 **Inglês**: Certificação de proficiência **TOEIC – 715 pontos**
-* 🏆 Premiado pela **FATEC** e certificado em **Computação em Nuvem**
-* 🇯🇵 Curiosidade: fiz um curso de **japonês** (34 horas 😄)
-* 💼 Atuo na empresa **Code and Soul** como **Desenvolvedor Front-End Jr**
+*  Tenho foco em **Full Stack, e Gerenciamento de Servidores**
+*  Estudando **React Native, Node.js, Tailwind, Vite and Three.js**
+*  Atualmente no 6º semestre de **Análise e Desenvolvimento de Sistemas**
+*  **Inglês**: Certificação de proficiência **TOEIC – 715 pontos**
+*  Premiado pela **FATEC** e certificado em **Computação em Nuvem**
+*  Curiosidade: fiz um curso de **japonês** (34 horas)
+*  Atuo na empresa **Code and Soul** como **Desenvolvedor Front-End Jr**
 
 <div align="center">
   
-<h2>🔗 Links</h2>
+<h2> Links</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/nathanael-m-netto/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-  <h2>📊 Stats</h2>
+  <h2> Stats</h2>
 </div>
 
 <div align="center">
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-  <h2>💻 Linguagens</h2>
+  <h2> Linguagens</h2>
 </div>
 
 <div align="center">
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-  <h2>🛠️ Ferramentas & Frameworks</h2>
+  <h2> Ferramentas & Frameworks</h2>
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
