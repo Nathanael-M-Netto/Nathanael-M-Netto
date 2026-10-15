@@ -5,6 +5,8 @@
   <p><strong>Desenvolvedor Full Stack</strong><br />React · Next.js · TypeScript · Drupal · Acquia</p>
 </div>
 
+<p align="center"><strong>🇧🇷 Português</strong> &nbsp;|&nbsp; <a href="./README.en.md" lang="en">🇺🇸 English</a></p>
+
 ## Sobre mim
 
 Sou **desenvolvedor Full Stack**, formado em **Análise e Desenvolvimento de Sistemas pela Fatec Itapetininga**. Desde outubro de 2025, atuo como **Desenvolvedor Front-end Júnior na Code and Soul**, em projetos da TIM.
